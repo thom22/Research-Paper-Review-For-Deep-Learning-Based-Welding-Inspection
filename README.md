@@ -1,4 +1,4 @@
-# Welding Inspection Based On Deep learning Research Paper Study
+# Deep Learning Based Welding Inspection Research Paper Study
 
 
 
